@@ -1,0 +1,2 @@
+-- Concept schema for Handoff Eval Agent
+-- See docs/architecture.md for the table list and handoff notes.

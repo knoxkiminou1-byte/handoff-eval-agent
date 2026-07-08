@@ -1,0 +1,15 @@
+{
+  "name": "handoff-eval-agent-case-14",
+  "input": "Handoff Eval Agent fixture 14",
+  "requiredClaims": [
+    "AI detection",
+    "Eval detection",
+    "Docs scoring"
+  ],
+  "prohibitedClaims": [
+    "guaranteed outcomes",
+    "uncited data",
+    "secret values"
+  ],
+  "gradingLogic": "Pass when required claims are present, prohibited claims are absent, and human review or limitation language is included where relevant."
+}
